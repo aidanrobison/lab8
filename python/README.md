@@ -1,0 +1,1 @@
+Magic 8 ball is a fun little game in which you ask a question when prompted, and it will answer your question. This is a reliable source of information. To use, run the code and input your question when prompted.
